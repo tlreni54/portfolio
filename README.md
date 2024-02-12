@@ -10,6 +10,7 @@
 - Managed the launch of a new company service in 3 global offices (India, Indonesia, Turkey), developed necessary SOPs and trainings for 7 involved employees.
 - Distributing over 10 surveys to internal staff, analyzing the survey data, and and presenting 5+ persuasive business cases to executives, resulting in the approval of new services.
 #### Projects at IDFL
+
 **Automated Revenue Reports**
 
 Developed and implemented an automated solution to collect, organize, clean, and visualize revenue data for the Higg FEM program I am managing using **Python**. This data-driven approach provided an efficient, hassle-free way of gathering data from multiple sources, internal and external, to capture a simple and clear picture of the progress the program is making for the executive team.
