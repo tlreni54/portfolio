@@ -14,7 +14,7 @@
 
 Developed and implemented an automated solution to collect, organize, clean, and visualize revenue data for the Higg FEM program I am managing using **Python**. This data-driven approach provided an efficient, hassle-free way of gathering data from multiple sources, internal and external, to capture a simple and clear picture of the progress the program is making for the executive team.
 
-![Example Revenue Report](/assets/profile_pic_circle.png)
+![Example Revenue Report](/assets/revenue_report_ss.jpg)
 
 **Employee Training Dashboard**
 
