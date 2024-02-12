@@ -10,7 +10,7 @@
 - Managed the launch of a new company service in 3 global offices (India, Indonesia, Turkey), developed necessary SOPs and trainings for 7 involved employees.
 - Distributing over 10 surveys to internal staff, analyzing the survey data, and and presenting 5+ persuasive business cases to executives, resulting in the approval of new services.
 
-#### Projects at IDFL
+### Projects at IDFL
 
 **Automated Revenue Reports**
 
