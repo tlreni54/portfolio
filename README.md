@@ -7,8 +7,8 @@
 
 ## Work Experience
 ### Program Manager & Supply Chain Analyst @ IDFL Laboratory and Institute (_July 2022 - Present_)
-- Managed the launch of a new company service in 3 global offices (India, Indonesia, Turkey), developed necessary SOPs and trainings for 7 involved employees.
-- Distributing over 10 surveys to internal staff, analyzing the survey data, and and presenting 5+ persuasive business cases to executives, resulting in the approval of new services.
+- Presented 5+ persuasive, data-based business cases to executives, resulting in the approval of new services, uncovering valuable insights.
+- Close collaboration with executives and team-members to integrate data scraping, cleaning, and organizing, providing data-driven solutions that teams used to pursue revenue-generating programs.
 
 
 ## Projects at IDFL
@@ -19,9 +19,11 @@ Developed and implemented an automated solution to collect, organize, clean, and
 
 ![Example Revenue Report](/assets/revenue_report_ss.jpg)
 
-**Employee Training Dashboard**
+**Data-Driven Business Cases**
 
-Developing a **Python** script to extract raw data from employee training records, culminating in a user-friendly dashboard and facilitating seamless resource visibility for rapid company expansion.
+Having experience researching business opportunities for IDFL, data scraping and data cleaning with Python and presenting findings with visualizations (Tableau, Matplotlib, PowerBi), this particular data-driven business case was one where large datasets were used to create a clear understanding of the ISO 9001 & 14001 programs, their health, and how IDFL should proceed in pursuing the program.
+
+![Example Revenue Report](/assets/ISO_17021_filter_review.png)
 
 ### Consultant @ Forward Medical (_July 2019 - June 2022_)
 - Implemented efficient coordination systems for scribe appointment assignment, ensuring the quality patient experience
