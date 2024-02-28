@@ -1,6 +1,6 @@
-# Data Analyst
+# Data Scientist
 
-#### Technical Skills: Python, SQL, Data Visualization (Tableau, PowerBi, Matplotlib), Data/Web Scraping, Database Management
+#### Technical Skills: Python, SQL, Data Visualization (Tableau, PowerBi, Matplotlib), Data/Web Scraping, Dataset Management
 
 ## Education
 - B.S., Operations and Supply Chain Management | Utah Valley University (_August 2023_)
