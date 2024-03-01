@@ -2,9 +2,6 @@
 
 #### Technical Skills: Python, SQL, Data Visualization (Tableau, PowerBi, Matplotlib), Data/Web Scraping, Dataset Management
 
-## Education
-- B.S., Operations and Supply Chain Management | Utah Valley University (_August 2023_)
-
 ## Work Experience
 ### Program Manager & Supply Chain Analyst @ IDFL Laboratory and Institute (_July 2022 - Present_)
 - Presented 5+ persuasive, data-based business cases to executives, resulting in the approval of new services, uncovering valuable insights.
@@ -38,3 +35,6 @@ Cleaned and organized CO2 Emissions data to visualize and provide insights on co
 Developed an elaborate dashboard to provide valuable insights on Airbnb stays, including top regions by availability, rating, and average prices per year (Excel, Python, Tableau).
 
 ![Airbnb Dashboard](/assets/AirbnbDashboard.png)
+
+## Education
+- B.S., Operations and Supply Chain Management | Utah Valley University (_August 2023_)
