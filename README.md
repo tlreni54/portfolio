@@ -11,7 +11,7 @@
 - Close collaboration with executives and team-members to integrate data scraping, cleaning, and organizing, providing data-driven solutions that teams used to pursue revenue-generating programs.
 
 
-## Projects at IDFL
+## Projects @ IDFL
 
 **Automated Revenue Reports**
 
@@ -21,13 +21,20 @@ Developed and implemented an automated solution to collect, organize, clean, and
 
 **Data-Driven Business Cases**
 
-Having experience researching business opportunities for IDFL, data scraping and data cleaning with Python and presenting findings with visualizations (Tableau, Matplotlib, PowerBi), this particular data-driven business case was one where large datasets were used to create a clear understanding of the ISO 9001 & 14001 programs, their health, and how IDFL should proceed in pursuing the program.
+Having experience researching business opportunities for IDFL, data scraping and data cleaning with Python and presenting findings with visualizations (Tableau, Matplotlib, PowerBi), this particular data-driven business case included large datasets used to create a clear understanding of the ISO 9001 & 14001 programs, their health, and how IDFL should proceed in pursuing the program.
 
-![Example Revenue Report](/assets/ISO_17021_filter_review.png)
+![Example Business Case](/assets/ISO_17021_filter_review.png)
 
-### Consultant @ Forward Medical (_July 2019 - June 2022_)
-- Implemented efficient coordination systems for scribe appointment assignment, ensuring the quality patient experience
+## Other Projects
 
-### Financial Secretary @ Portugal Lisbon Mission (_February 2015 - January 2017_)
-- Created SOPs for management and logistics of 200+ volunteers, materials, vehicles, and 100+ rental properties.
-- Led 80+ district and zone conferences, training 200+ volunteers.
+**CO2 Emissions per Capita**
+
+Cleaned and organized CO2 Emissions data to visualize and provide insights on country CO2 emissions and CO2 emission changes over time (Excel, Python, Tableau).
+
+![CO2 Dashboard](/assets/CO2Dashboard.png)
+
+**Airbnb Dashboard**
+
+Developed an elaborate dashboard to provide valuable insights on Airbnb stays, including top regions by availability, rating, and average prices per year (Excel, Python, Tableau).
+
+![Airbnb Dashboard](/assets/AirbnbDashboard.png)
