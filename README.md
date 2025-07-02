@@ -13,7 +13,7 @@ Significantly reduced time to generate reports by 90%, reshaped company data gov
 - Reduced manual workload, transforming incomplete and unreliable program data into a monthly high-accuracy revenue analysis.
 - Empowered executives to base strategic decisions on accurate data, inspiring new data governance practices.
 
-![Example Revenue Report](/assets/revenue_report_ss.jpg)
+![Example Revenue Report](/assets/Higg FEM SharePoint Dashboard.jpg)
 
 **Data-Driven Business Cases**
 
