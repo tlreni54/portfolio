@@ -1,10 +1,10 @@
 # Data Analyst | Data Scientist
 
-#### Technical Skills: Python, SQL, Data Visualization (Tableau, PowerBi, Matplotlib), Data/Web Scraping, Dataset Management
+#### Technical Skills: Python, SQL, Data Visualization (PowerBi, Matplotlib, Tableau), Web Scraping (Selenium), Dataset Management
 
 ## Work Experience
 ### Program Manager | Data Analyst 
-@ IDFL Laboratory and Institute (_July 2022 - Present_)
+**@ IDFL Laboratory and Institute (_July 2022 - Present_)**
 
 ### Projects:
 
